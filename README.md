@@ -1,1 +1,1 @@
-# ums-api-gateway
+# university-management-app-api-gateway
